@@ -8,7 +8,7 @@
 header{
   /*Sizing of the element*/
  height: 500px;
- width: 100%;
+ width: 65%;
  /*Set and adjust background image*/
  background-image: url("yinyang.jpg");
  background-size: cover;
@@ -17,4 +17,18 @@ header{
 /*center the text*/
 text-align: center;
 font-family: 'Questrial', sans-serif;
+}
+header p {
+    /* Add the front-style property here*/
+}
+.services i {
+    height: 80px;
+    width: 80px;
+    color: white;
+    background-color: green;
+    padding: 25px 20px;
+    font-size: 30px;
+    border-radius: 50%;
+    text-align: center;
+
 }
