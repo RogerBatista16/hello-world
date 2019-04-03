@@ -40,3 +40,40 @@ header p {
     color: white;
     font-family: cursive
 }
+
+.team img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 10%;
+}
+.contact h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.contact {
+    margin: 40px;
+}
+
+.contact i {
+    padding:10px ;    
+}
+
+.contact .input-group {
+    margin: 20px;
+    
+}
+
+.contact .btn {
+ width: 100%;
+ font-size: 20px;
+ border-radius: 0;
+ background-color: red;
+ 
+    
+}
+
+.contact .text-area {
+    height: 200px;
+}
